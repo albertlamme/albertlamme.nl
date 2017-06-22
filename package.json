@@ -1,0 +1,13 @@
+{
+  "name": "Albertlamme.nl",
+  "version": "1.0.0",
+  "description": "Package to run Albertlamme.nl",
+  "main": "index.js",
+  "repository": "https://github.com/albertlamme/albertlamme.nl.git",
+  "author": "Albert Lamme",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
